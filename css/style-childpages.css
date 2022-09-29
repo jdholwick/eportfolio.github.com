@@ -1,0 +1,25 @@
+html, body {
+    font-family: "courier";
+    background-color: #1C2833;
+}
+
+h1 {
+    color: #D3FBD8;
+    font-size: 1.9em;
+    text-align: left;
+    text-decoration: underline;
+}
+
+ul {
+    color: #D3FBD8;
+    font-size: 1.2em;
+    list-style-type: circle;
+}
+
+a {
+    color: #D3FBD8;
+}
+
+a:focus {
+    color: #00C6B4;
+}
