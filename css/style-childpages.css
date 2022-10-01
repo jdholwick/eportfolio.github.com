@@ -1,25 +1,72 @@
 html, body {
     font-family: "courier";
-    background-color: #1C2833;
+    background-color: #c9e3ff;
 }
 
 h1 {
-    color: #D3FBD8;
     font-size: 1.9em;
     text-align: left;
     text-decoration: underline;
 }
 
 ul {
-    color: #D3FBD8;
+    color: #003f80;
     font-size: 1.2em;
     list-style-type: circle;
 }
 
 a {
-    color: #D3FBD8;
+    color: #003f80;
 }
 
 a:focus {
-    color: #00C6B4;
+    color: #38007b;
+}
+
+.page-wrap {
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+footer {
+    width: 100%;
+    background-color: #8DC63F;
+    display: block;
+    float: left;
+    clear: both;
+    text-align:center;
+}
+
+.footer-bottom {
+    width: 100%;
+    text-align: center;
+    float: left;
+    display: inline-block;
+}
+
+.footer-menu a {
+    color: #FFFFFF;
+    float: left;
+    font-size: medium;
+    list-style-type: none;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.footer-menu li {
+    width: auto;
+    float: left;
+    text-align: center;
+    list-style-type: none;
+    text-decoration: none;
+}
+.footer-menu {
+    text-decoration: none;
+    width: auto;
+    text-align: center;
 }
