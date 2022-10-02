@@ -1,23 +1,24 @@
 html, body {
     font-family: "courier";
     background-color: #f7f9ff;
+    font-size: 1.1em;
 }
 
 h1 {
-    font-size: 2.3em;
+    font-size: 2em;
     text-align: left;
     text-decoration: underline;
 }
 
 h2 {
-    font-size: 1.7em;
+    font-size: 1.2em;
     text-align: left;
     text-decoration: underline;
 }
 
 ul {
     color: #000000;
-    font-size: 1.2em;
+    font-size: 1.1em;
     list-style-type: circle;
 }
 
